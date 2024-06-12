@@ -1,6 +1,6 @@
 Write-Host  -ForegroundColor Yellow "Starting Custom OSDCloud ..."
 cls
-Write-Host "================== Scotlynn Imagine ====================" -ForegroundColor Yellow
+Write-Host "================== Scotlynn Imaging ====================" -ForegroundColor Yellow
 Write-Host "===================== Main Menu =======================" -ForegroundColor Yellow
 Write-Host "=======================================================" -ForegroundColor Yellow
 Write-Host "1: Zero-Touch Win10 22H2 | English | Pro (Older Machines)"-ForegroundColor Yellow
